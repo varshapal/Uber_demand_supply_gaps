@@ -5,7 +5,7 @@
 
   # Problem Statement
   - There is gap in uber supply and demand request. 
-  - - How many total request in a day?
+    - How many total request in a day?
     - How many total request from each pickup points?
     - How many request completed, request cancelled, and car not availbale for request?
     - How many total request are cancelled in early morning and late night?
@@ -19,11 +19,11 @@
     
   # Tool and Library Used
   - Excel
-  - - data cleaning and creating dashboard
+    - data cleaning and creating dashboard
   - SQL(postgreSQL)
-  - - SQL queries
+    - SQL queries
   - Python
-  - - pandas
+    - pandas
     - Matplotib and seaborn
   - Jupyter Notebook
    
