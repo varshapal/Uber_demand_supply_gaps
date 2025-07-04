@@ -1,7 +1,7 @@
 # Uber Demand Supply Gaps
 # About the Dataset
 - Dataset contain one csv file uber_request_data.csv.
-- uber_request_data.csv conatins 6745 records and 10 columns.
+- uber_request_data.csv conatins 6745 records and 6 columns.
 
   # Problem Statements
   - There is gap in uber supply and demand request. 
