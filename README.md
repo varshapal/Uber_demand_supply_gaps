@@ -1,4 +1,10 @@
 # Uber Demand Supply Gaps
+
+# Objective
+  The objective of this project is to analyze Uber ride request data to identify patterns in demand and supply, 
+  uncover the causes behind trip cancellations and unavailability of cars, and highlight the time periods and 
+  locations where the demand-supply gap is most significant.
+  
 # About the Dataset
 - Dataset contain one csv file uber_request_data.csv.
 - uber_request_data.csv conatins 6745 records and 6 columns.
@@ -11,12 +17,6 @@
     - How many total request are cancelled in early morning and late night?
     - Find top 10 driver who completed maximum trips.
 
-  # Key insights:
-  - Request cancelled maximum in early morning.
-  - In a day maximum request in morning and evening.
-  - Request completed maximum in morning and evening.
-  - Car not available in mostly in evening.
-    
   # Tools and Libraries Used
   - Excel
     - data cleaning and creating dashboard
@@ -26,4 +26,11 @@
     - pandas
     - Matplotib and seaborn
   - Jupyter Notebook
+ 
+  # Key insights:
+  - Request cancelled maximum in early morning.
+  - In a day maximum request in morning and evening.
+  - Request completed maximum in morning and evening.
+  - Car not available in mostly in evening.
    
+#EDA, #SQL, #DataAnalysis, #Python
